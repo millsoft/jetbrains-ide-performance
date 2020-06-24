@@ -1,4 +1,4 @@
-# jetbrains-ide-performance
+# jetbrains-ide-performance (2020 version)
 High Performance Configuration for Jetbrains IDEs [IntelliJ, WebStorm, etc..]
 
 # Motivation
